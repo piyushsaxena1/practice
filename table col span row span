@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Web Page Design</title>
+</head>
+<body>
+<table border="3">
+<TR>
+    <TH align="center" colspan="5">Name</TH>
+    <TH valign="center" rowspan="2" colspan="2">course</TH>
+    <TH valign="center" rowspan="2">Name</TH>
+</TR> 
+<TR>
+     <TH align="center" colspan="3">last</TH>
+     <TH align="center" colspan="2">Name</TH>
+</TR>
+<TR>
+    <TD align="left" colspan="3">moragan</TD>
+    <TD align="left" colspan="2">A B</TD>
+    <TD align="left" colspan="2">fishing</TD>
+    <TD align="left">5</TD>
+    
+</TR>
+<TR>
+    <TD align="left" colspan="3">jones</TD>
+    <TD align="left" colspan="2">D J</TD>
+    <TD align="left" colspan="2">sailing</TD>
+    <TD align="left">8</TD>
+    
+</TR>
+</table>
+</body>
+</html>
