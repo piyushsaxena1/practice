@@ -1,0 +1,43 @@
+<html>
+<head>
+<title>title</title>
+</head>
+<body>
+<h1><a name="top">Title</a></h1>
+    
+<ol>
+<li><a href="#s1">jump to section 1</a></li><br>
+<li><a href="#s2">jump to section 2</a></li><br>
+<li><a href="#s3">jump to section 3</a></li>
+</ol>
+<br>
+<hr class="new">
+
+<h2><a name="s1">section 1</a></h2>
+<a href="#top">back to top</a><br>
+<hr class="new">
+ 
+<h2><a name="s2">section 2</a></a></h2>
+<a href="#top">back to top</a><br>
+<hr class="new">
+
+<h2><a name="s3">section 3</a></h2>
+<a href="#top">back to top</a><br>
+
+<ul>
+    <li>history</li>
+    <li>mathematics</li>
+    <li>english</li>
+    <li>hindi</li>
+    <li>science</li>
+</ul>
+
+<ul>
+    <li>history</li>
+    <li>mathematics</li>
+    <li>english</li>
+    <li>hindi</li>
+    <li>science</li>
+</ul>
+</body>
+</html>
