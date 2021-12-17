@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1> STUDENT REGISTERATION FORM</h1>
+NAME: <input type = "text" name = "name" /><br><br>
+LAST NAME: <input type = "text" name = "last_name" />
+<br><br>
+<p align="left">how did you hear? </p>
+   agdtdtyfytftrtyrt <input type = "checkbox" name = "friend" value = "on"><br>
+   gcthftfyyfryuffhf<input type = "checkbox" name = "Female" value = "on">
+   
+<p align="right"> how you rate this?</p>
+<p align="right"><select name="rating" align="right">
+    <OPTION value="good" selected>Good</OPTION>
+    <OPTION value="bad">bad</OPTION>
+    <OPTION value="ugly">ugly</OPTION>
+</select></p>
+ please write cooments<br>
+ <textarea rows = "5" cols = "50" name = "description">
+</textarea><br>
+do you want any further info?<br>
+<INPUT TYPE="submit" NAME="yes" VALUE="Yes">
+<INPUT TYPE="submit" NAME="no" VALUE="No">
+</body>
+</html>
